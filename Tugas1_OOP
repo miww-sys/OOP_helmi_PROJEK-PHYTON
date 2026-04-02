@@ -1,0 +1,4 @@
+a="XII"
+b=(3)
+c=(18)
+print("Halo,nama saya Yolanda dari kelas",a,"RPL",b,"umur",c,"tahun")
