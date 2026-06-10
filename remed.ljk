@@ -1,0 +1,6 @@
+
+hari_terlambat = int(input("Jumlah hari terlambat: "))
+
+denda = hari_terlambat * 2000
+
+print("Total denda:", denda)
